@@ -1,4 +1,5 @@
 # История ZenPower
+![image-36](https://github.com/user-attachments/assets/e341c2ee-464a-4768-87c2-d3be07759f4c)
 ## Начало
 Началось всё в конце октября 2023 года после продажи LaYarCraft. Все активные пользователи перешли на ??? сервер, который в скором времени получил название ZenPower.
 Сервер получил фичи на скриптовом языке Denizen, пока на сервере оставалась карта ещё с LaYarCraft и те люди, которые просто хотели повыживать.
@@ -59,3 +60,20 @@
 
 ## Октябрь
 Ситуация на сервере меняется: появились новые участники. Новый разработчик на Java разработал уникальную лупу из старого скрипта, а также переписывает мяч. Админы Ordoss1k и YarKrasavin начали писать энд. Большую часть писал Ордос, а Яр пытался выиграть время для написание ивента.
+
+
+## Фотографии с сервера.
+![image-43](https://github.com/user-attachments/assets/ca0945d0-2f02-43fb-afe5-f42d830aec02)
+![image-56](https://github.com/user-attachments/assets/52c6116e-6595-4a17-ae0a-72e5478c5422)
+![image-50](https://github.com/user-attachments/assets/82d253bf-3502-4980-bdd8-df6bfffc3440)
+![image-61](https://github.com/user-attachments/assets/8de83ee7-98a5-4198-8db9-37ff8113438b)
+![image-52](https://github.com/user-attachments/assets/215b772b-4e18-4546-a227-9cd36c57f334)
+![image-58](https://github.com/user-attachments/assets/8d2eec3a-71e9-4f57-878f-82a8d9ea3c6e)
+![image-53](https://github.com/user-attachments/assets/7b28deec-42b7-4b84-ad6a-10930a9d5f86)
+![image-47](https://github.com/user-attachments/assets/02ab3fe8-4e04-4411-a597-0220dcc51919)
+
+
+
+
+
+
