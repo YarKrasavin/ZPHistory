@@ -83,9 +83,8 @@
 В 2025 году мы сделаем всё возможное, чтобы онлайн был больше 10!
 
 
-
-
 ## Фотографии с сервера.
+
 ![image-43](https://github.com/user-attachments/assets/ca0945d0-2f02-43fb-afe5-f42d830aec02)
 ![image-56](https://github.com/user-attachments/assets/52c6116e-6595-4a17-ae0a-72e5478c5422)
 ![image-50](https://github.com/user-attachments/assets/82d253bf-3502-4980-bdd8-df6bfffc3440)
